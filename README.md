@@ -17,7 +17,7 @@ principalmente la escena del Age of Empires.
 
 ## 💡 Proyectos
 - [Test de Caras-R (en desarrollo)](https://github.com/gazapus/test-de-caras): Test para la evaluación, calificación y registro de la atención
-- [Test de Locus de Control (en desarrollo)](https://github.com/gazapus/test-locus-front): Test para la evaluación, calificación y registro del locus de control
+- [Test de Locus de Control](https://github.com/gazapus/test-locus-front): Test para la evaluación, calificación y registro del locus de control
 - [Decoraciones Alybell](https://github.com/gazapus/Decoraciones-Alybell---Front): Sitio web promocional de un microemprendimiento
 - [Lista de Compras - App](https://github.com/gazapus/shopping-list-app): Aplicación para el manejo de una lista de compras
 - [Lista de Compras - Web](https://shoppinglist-94819.web.app/): Sitio web para el manejo de una lista de compras
