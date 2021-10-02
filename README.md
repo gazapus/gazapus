@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Cristian Villafañe
 
-Desde que comencé mi aprendizaje me di cuenta que programar es algo que me gusta mucho hacer, y sinceramente quiero dedicarme a esto.
+Desde que comencé mi aprendizaje me di cuenta que programar es algo que me gusta mucho hacer, y deseo dedicarme a esto.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazapus&theme=tokyonight)
 
